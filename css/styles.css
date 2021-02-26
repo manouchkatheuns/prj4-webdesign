@@ -22,7 +22,7 @@ body {
   overflow: hidden;
 }
 .topnav a {
-  float: center;
+  float: right;
   color: #DE98ED;
   text-align: center;
   padding: 14px 16px;
