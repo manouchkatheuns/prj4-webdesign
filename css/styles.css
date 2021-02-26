@@ -19,7 +19,7 @@ body {
 }
 .my-container {
     background-color: #030358;
-    border-radius: 20;
+    border-radius: 10px;
     color: #FFFFFF;
     border-width: thin;
     border-style: dashed;
