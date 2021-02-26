@@ -47,7 +47,8 @@ body {
     width: 777px;
     height: 245px;
     text-align: justify;
-    margin-left: 200px;
+    margin-right: auto;
+    margin-left: auto;
     margin-top: 40px;
 }
 .floatleft {
