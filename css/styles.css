@@ -1,0 +1,49 @@
+@charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+h1 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+body {
+    background-image: url(../images/heyyou.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+}
+.my-header {
+    color: black;
+    background-color: #DE98ED;
+    text-align: center;
+	padding-top: 2mm;
+    width: auto;
+    height: 1cm;
+}
+.my-container {
+    background-color: #030358;
+    border-radius: 20;
+    color: #FFFFFF;
+    border-width: thin;
+    border-style: dashed;
+    padding: 4mm;
+    width: 777px;
+    height: 245px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.floatleft {
+    width: 227px;
+    height: 217px;
+    float: left;
+    padding-right: 10px
+}
+#footer	{
+    color: black;
+    background-color: #DE98ED;
+    text-align: center;
+    padding-top: 5mm;
+    width: auto;
+    height: 1cm;
+    margin-top: 40px;
+    padding-bottom: 10mm;
+}
+		
