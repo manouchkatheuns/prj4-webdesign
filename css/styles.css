@@ -1,21 +1,20 @@
 @charset "utf-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
-h1 {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
-}
+
 body {
-    background-image: url(../images/heyyou.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-size: large;
+  background-image: url(../images/heyyou.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: large;
 }
 .my-header {
-    color: black;
-    background-color: #DE98ED;
-    text-align: center;
-	padding-top: 2mm;
-    width: auto;
-    height: 1cm;
+  font-family: 'Anton', sans-serif;
+  color: black;
+  background-color: #DE98ED;
+  text-align: center;
+  padding-top: 2mm;
+  width: auto;
+  height: 1cm;
 }
 .topnav {
   background-color: #333;
@@ -58,6 +57,7 @@ body {
     padding-right: 10px
 }
 #footer	{
+    font-family: 'Anton', sans-serif;
     color: black;
     background-color: #DE98ED;
     text-align: center;
